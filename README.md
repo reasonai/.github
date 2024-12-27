@@ -1,0 +1,2 @@
+# .github
+✨ AI related work
